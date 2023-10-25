@@ -8,8 +8,6 @@
 - 🌱 I’m currently exploring the exciting realm of **Data Structures and Algorithms (DSA)**
 
 - 👯 I’m currently Working in Field of **Web Development**
-
-- 🤝 I’m currently working on Rate It **(A Movie Voting Website).**
-
+- 
 - 📫 How to reach me **sakshibhatia9098@gmail.com**
 
