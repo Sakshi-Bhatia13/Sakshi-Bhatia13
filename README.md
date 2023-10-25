@@ -1,6 +1,4 @@
-<p align="center">
-  <img align = "right" alt="coding" width=400 src="https://img.freepik.com/premium-vector/animation-scene-business-woman-working-laptop-computer_40876-788.jpg" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Sakshi Bhatia</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
